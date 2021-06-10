@@ -1,4 +1,4 @@
-# pleural-effusion
+# Classification of the etiology for pleural effusion
 we made the classifier of the etiology for pleural effusion. 
 Five kinds of the model were tested as a classifier: 
 * random-forest model
